@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'todo-app',
+      name: 'TODO_APP',
       script: 'main.js',
       instances: '1',
       exec_mode: 'cluster',
